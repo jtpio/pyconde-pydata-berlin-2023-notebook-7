@@ -12,7 +12,7 @@ paginate: true
 
 #### :date: 2023-04-19
 
-#### :man: Jeremy Tuloup
+#### :bust_in_silhouette: Jeremy Tuloup
 
 ---
 
