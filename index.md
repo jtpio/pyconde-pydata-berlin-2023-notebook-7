@@ -22,10 +22,10 @@ paginate: true
 
 ## 🟠 Core Jupyter Developer
 
-![bg fit right](https://quantstack.net/img/logo.svg)
-![bg fit right](https://jupyter.org/assets/homepage/main-logo.svg)
+![](https://quantstack.net/img/logo.svg) ![height:150px](https://jupyter.org/assets/homepage/main-logo.svg)
 
 ---
+
 
 # History
 
