@@ -6,3 +6,4 @@ matplotlib
 nbclassic==0.5.5
 pandas
 plotly~=5.3
+scipy~=1.10.1
