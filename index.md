@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: default
+paginate: true
 ---
 
 ![bg fit right:30%](https://jupyter.org/assets/homepage/main-logo.svg)
@@ -228,7 +229,7 @@ theme: default
 
 # Migration
 
-- JupyterLab 4, Notebook 7 and NBClassic 1 can be used together on the same Jupyter Server
+- JupyterLab 4, Notebook 7 and NBClassic 1 can be used together on the same Jupyter Server (**demo**)
 - Migration guide available in the documentation:
   - https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
   - Describes several scenarios for running both the Classic Notebook and Notebook 7 on the same server
