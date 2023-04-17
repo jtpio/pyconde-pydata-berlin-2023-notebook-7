@@ -264,7 +264,9 @@ paginate: true
 # How can I help?
 
 - If you are a user of the Classic Notebook and have concerns, please reach out!
-- Please test the JupyterLab 4 and Notebook 7 betas, report issues and give feedback 🙏
+- Please test the JupyterLab 4 and Notebook 7 betas and give feedback 🙏
+- Report issues and feedback on the Notebook repository: https://github.com/jupyter/notebook/issues
+- Start discussions on the Jupyter Discourse: https://discourse.jupyter.org
 
 ---
 
