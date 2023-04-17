@@ -8,6 +8,10 @@ paginate: true
 section::after {
   content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
 }
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
 </style>
 
 ![bg fit right:30%](https://jupyter.org/assets/homepage/main-logo.svg)
@@ -207,7 +211,7 @@ section::after {
 
 # Keep the Classic Notebook look and feel
 
-![height:600px](https://user-images.githubusercontent.com/591645/232336580-7e458625-1914-49cf-95dc-0e25f48865ab.png)
+![h:600px center](https://user-images.githubusercontent.com/591645/232336580-7e458625-1914-49cf-95dc-0e25f48865ab.png)
 
 ---
 
@@ -267,8 +271,9 @@ section::after {
 
 # Where is development happening?
 
-- Notebook 7 is being developed in https://github.com/jupyter/notebook
+- Notebook 7 is being developed in https://github.com/jupyter/notebook (`main` branch)
 - The Classic Notebook UI has been moved to https://github.com/jupyter/nbclassic
+- Notebook 6.5.x (security patches only) in https://github.com/jupyter/notebook/tree/6.5.x
 
 ---
 
