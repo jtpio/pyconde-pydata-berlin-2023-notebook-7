@@ -20,6 +20,10 @@ section::after {
 
 #### :bust_in_silhouette: Jeremy Tuloup
 
+- https://github.com/jtpio
+- https://twitter.com/jtpio
+- https://fosstodon.org/@jtp
+
 ---
 
 # About
@@ -110,11 +114,20 @@ section::after {
 
 ---
 
+# Classic Notebook
+
+- Released in 2015 as a successor to the IPython Notebook
+- Built with jQuery, RequireJS, Bootstrap
+
+![bg fit right](https://user-images.githubusercontent.com/591645/232584323-3885179a-648f-480b-9880-0d5629b99429.png)
+
+---
+
 # JupyterLab
 
-- Next Gen Notebook Interface
+- Next Gen Notebook Interface (and more)
 - Extensible Computing Environment
-- Jupyter Notebook and much more
+- Built on modern web technologies
 
 ![bg fit right:40%](https://user-images.githubusercontent.com/591645/232302198-752fe91a-661c-47f9-8805-5cf917ed72a7.png)
 
@@ -212,6 +225,7 @@ section::after {
 
 # Demo
 
+- Locally: http://localhost:8888/tree
 - Try it on Binder: [![width:100%](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/pyconde-pydata-berlin-2023-notebook-7/main?urlpath=tree)
 
 ---
