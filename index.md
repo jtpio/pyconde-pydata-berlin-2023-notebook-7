@@ -4,6 +4,12 @@ theme: default
 paginate: true
 ---
 
+<style>
+section::after {
+  content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
+}
+</style>
+
 ![bg fit right:30%](https://jupyter.org/assets/homepage/main-logo.svg)
 
 ## :notebook: The Future of the Jupyter Notebook
