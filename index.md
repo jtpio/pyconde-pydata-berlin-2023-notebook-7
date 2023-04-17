@@ -302,3 +302,13 @@ Special thanks to the Notebook Team and the authors of the JEP:
 Eric Charles, Sylvain Corlay, Afshin Darian, Sharan Foga, Eric Gentry, Kevin Goldsmith, Brian Granger, Jason Grout, Fernando Pérez, Zach Sailer, Rosio Reyes, Jeremy Tuloup
 
 And to the broader Jupyter Community.
+
+
+---
+
+# Resources
+
+You can find the slides on GitHub:
+
+- Repository: https://github.com/jtpio/pyconde-pydata-berlin-2023-notebook-7
+- Live version: https://jtpio.github.io/pyconde-pydata-berlin-2023-notebook-7/
