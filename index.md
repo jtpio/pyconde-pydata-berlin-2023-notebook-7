@@ -217,13 +217,14 @@ img[alt~="center"] {
 
 # New Features
 
-- Many coming from JupyterLab automatically
-- Mime extensions
-- Debugger
-- Accessibility (CodeMirror 6)
-- Theming and Dark Mode
-- Built-in Table of Contents
-- Real Time Colaboration ([demo](https://user-images.githubusercontent.com/591645/229854102-6eed73f4-587f-406e-8ed1-347b788da9ee.gif))
+- :test_tube: Many coming from JupyterLab automatically
+- :jigsaw: Mime extensions
+- :bug: Debugger
+- :file_folder: Accessibility (CodeMirror 6)
+- :art: Theming and Dark Mode
+- :bookmark_tabs: Built-in Table of Contents
+- :bulb: Can be used in [JupyterLite](https://github.com/jupyterlite/jupyterlite)
+- :busts_in_silhouette: Real Time Colaboration ([demo](https://user-images.githubusercontent.com/591645/229854102-6eed73f4-587f-406e-8ed1-347b788da9ee.gif))
 
 ---
 
@@ -257,6 +258,20 @@ img[alt~="center"] {
 - Migration guide available in the documentation:
   - https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
   - Describes several scenarios for running both the Classic Notebook and Notebook 7 on the same server
+
+---
+
+# Migration Banner
+
+- NBclassic and Notebook 6.5.x show a banner to encourage users to migrate to Notebook 7
+
+![h:400px center](https://user-images.githubusercontent.com/591645/232783732-01034b3d-0ad5-48bb-a3d1-03ab086804c1.png)
+
+---
+
+# Server logs
+
+![center](https://user-images.githubusercontent.com/591645/232784199-ce317708-2f7c-4620-bc09-ffef9897e7cd.png)
 
 ---
 
